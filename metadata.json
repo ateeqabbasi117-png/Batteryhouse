@@ -1,0 +1,6 @@
+{
+  "name": "BatteryHouse PK",
+  "description": "Pakistan-based seller of lithium battery packs (12V, 24V, 36V, 48V packs built from 18650 cells), 3.7V lithium cells, custom packs, and PCB assembly and SMD soldering services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
